@@ -1,0 +1,5 @@
+csiread==1.4.0
+matplotlib==3.7.5
+numpy==1.24.4
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
